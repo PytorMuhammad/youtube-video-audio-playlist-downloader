@@ -1,5 +1,5 @@
 ﻿## Overview
-The YouTube Playlist Downloader is a Python-based tool designed to simplify the process of downloading videos and audio from YouTube playlists. It features a user-friendly graphical user interface (GUI) built with Tkinter and leverages the powerful yt-dlp library for efficient downloading. This tool is ideal for users who want to archive playlists, create offline music libraries, or save educational content for later viewing.
+The YouTube Playlist Downloader is a Python-based tool designed to simplify the process of downloading videos and audio from YouTube Video playlists. It features a user-friendly graphical user interface (GUI) built with Tkinter and leverages the powerful yt-dlp library for efficient downloading. This tool is ideal for users who want to archive playlists, create offline music libraries, or save educational content for later viewing.
 
 ## Key Features
 Custom Range Selection: Download specific videos or ranges from a playlist (e.g., "1-10" or "1-5,15-20").
